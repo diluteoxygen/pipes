@@ -4,7 +4,7 @@ var pipes = document.getElementById("pipes");
 var timeout;
 image.addEventListener("click", function() {
   if(isImage1) {
-    image.setAttribute("src","11.gif");
+    image.setAttribute("src","schizo.gif");
     isImage1 = false;
   } else {
     image.setAttribute("src","sane.png");
